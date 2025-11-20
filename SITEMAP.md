@@ -46,6 +46,8 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/forgotPassword`
 - **How to Access:** Tap "Forgot Password?" link on login screen
 - **Screenshot:** ![Screenshot](screenshots/09.jpg)
+- **Screenshot:** ![Screenshot](screenshots/74.jpg)
+- **Screenshot:** ![Screenshot](screenshots/75.jpg)
 
 
 
@@ -56,6 +58,8 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Screen:** Change Meal Screen
 - **How to Access:** Tap the "Schedule" tab (first tab) in bottom navigation bar
 - **Screenshot:** ![Screenshot](screenshots/13.jpg)
+- **Screenshot:** ![Screenshot](screenshots/76.jpg)
+- **Screenshot:** ![Screenshot](screenshots/77.jpg)
 
 #### 2.1.2 Explore Tab
 - **Screen:** Explore Screen
@@ -65,22 +69,29 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Screenshot:** ![Screenshot](screenshots/14.2.jpg)
 - **Screenshot:** ![Screenshot](screenshots/14.3.jpg)
 - **Screenshot:** ![Screenshot](screenshots/14.4.jpg)
+- **Screenshot:** ![Screenshot](screenshots/78.jpg)
+- **Screenshot:** ![Screenshot](screenshots/79.jpg)
+- **Screenshot:** ![Screenshot](screenshots/80.jpg)
 
 #### 2.1.3 Market Tab
 - **Screen:** Market Screen
 - **How to Access:** Tap the "Market" tab (third tab) in bottom navigation bar
 - **Screenshot:** ![Screenshot](screenshots/15.jpg)
 - **Screenshot:** ![Screenshot](screenshots/15.1.jpg)
+- **Screenshot:** ![Screenshot](screenshots/81.jpg)
+- **Screenshot:** ![Screenshot](screenshots/82.jpg)
 
 #### 2.1.4 Community Tab
 - **Screen:** Community Screen
 - **How to Access:** Tap the "Community" tab (fourth tab) in bottom navigation bar
 - **Screenshot:** ![Screenshot](screenshots/16.jpg)
+- **Screenshot:** ![Screenshot](screenshots/83.jpg)
 
 #### 2.1.5 Profile Tab
 - **Screen:** Profile Screen
 - **How to Access:** Tap the "Profile" tab (fifth tab) in bottom navigation bar
 - **Screenshot:** ![Screenshot](screenshots/17.jpg)
+- **Screenshot:** ![Screenshot](screenshots/84.jpg)
 
 ---
 
@@ -91,17 +102,20 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/mealSelection`
 - **How to Access:** Navigate from Meal Plan Form or Schedule screen when selecting meals
 - **Screenshot:** ![Screenshot](screenshots/19.jpg)
+- **Screenshot:** ![Screenshot](screenshots/85.jpg)
 
 
 ### 3.6 Week Menu
 - **Route:** `/weekMenu`
 - **How to Access:** Tap "Week Menu" or "View Week" button from Schedule screen
 - **Screenshot:** ![Screenshot](screenshots/23.jpg)
+- **Screenshot:** ![Screenshot](screenshots/86.jpg)
 
 ### 3.7 Past Orders
 - **Route:** `/pastOrders`
 - **How to Access:** Navigate from Market screen or Profile → Orders History
 - **Screenshot:** ![Screenshot](screenshots/24.jpg)
+- **Screenshot:** ![Screenshot](screenshots/87.jpg)
 
 ### 3.8 Meal Preferences
 - **Route:** `/mealPreferences`
@@ -126,6 +140,8 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/marketBoxDetails`
 - **How to Access:** Tap on any product/box from Market screen
 - **Screenshot:** ![Screenshot](screenshots/28.jpg)
+- **Screenshot:** ![Screenshot](screenshots/88.jpg)
+- **Screenshot:** ![Screenshot](screenshots/89.jpg)
 
 ### 4.2 Explore Our Box
 - **Route:** `/exploreOurBoxScreen`
@@ -136,6 +152,7 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/shoppingCard`
 - **How to Access:** Tap shopping cart icon from Market screen or any product detail screen
 - **Screenshot:** ![Screenshot](screenshots/30.jpg)
+- **Screenshot:** ![Screenshot](screenshots/90.jpg)
 
 ### 4.4 Addons
 - **Route:** `/addons`
@@ -146,6 +163,7 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/orderSummary`
 - **How to Access:** Navigate from Cart Orders screen → Proceed to Checkout → Order Summary
 - **Screenshot:** ![Screenshot](screenshots/32.jpg)
+- **Screenshot:** ![Screenshot](screenshots/91.jpg)
 
 ---
 
@@ -155,11 +173,14 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/recipes`
 - **How to Access:** Navigate from Community tab → Recipes section, or tap "Recipes" from Community screen
 - **Screenshot:** ![Screenshot](screenshots/33.jpg)
+- **Screenshot:** ![Screenshot](screenshots/92.jpg)
 
 ### 5.2 Recipe Details
 - **Route:** `/recipeDetailsRoute`
 - **How to Access:** Tap on any recipe card from Recipes screen
 - **Screenshot:** ![Screenshot](screenshots/34.jpg)
+- **Screenshot:** ![Screenshot](screenshots/93.jpg)
+- **Screenshot:** ![Screenshot](screenshots/94.jpg)
 
 ### 5.3 Recipe Steps
 - **Route:** `/recipeStepsRoute`
@@ -180,6 +201,7 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/posts`
 - **How to Access:** Navigate from Community tab → Posts section, or tap "Posts" from Community screen
 - **Screenshot:** ![Screenshot](screenshots/38.jpg)
+- **Screenshot:** ![Screenshot](screenshots/95.jpg)
 
 ### 5.7 Create Post
 - **Route:** `/createPost`
@@ -204,11 +226,14 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/tabs` (Profile Tab)
 - **How to Access:** Tap the "Profile" tab (fifth tab) in bottom navigation bar
 - **Screenshot:** ![Screenshot](screenshots/42.jpg)
+- **Screenshot:** ![Screenshot](screenshots/96.jpg)
+- **Screenshot:** ![Screenshot](screenshots/97.jpg)
 
 ### 6.2 Wallets
 - **Route:** `/wallets`
 - **How to Access:** Navigate from Profile → Wallets section, or tap wallet icon/balance
 - **Screenshot:** ![Screenshot](screenshots/43.jpg)
+- **Screenshot:** ![Screenshot](screenshots/98.jpg)
 
 ### 6.3 Store Rewards
 - **Route:** `/storeRewards`
@@ -224,6 +249,7 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/offersAndDiscounts`
 - **How to Access:** Navigate from Profile → Offers and Discounts section, or tap promotional banner
 - **Screenshot:** ![Screenshot](screenshots/46.jpg)
+- **Screenshot:** ![Screenshot](screenshots/99.jpg)
 
 ### 6.6 Contact Us
 - **Route:** `/contactUs`
@@ -248,6 +274,7 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/loyaltyRewardsMenu`
 - **How to Access:** Navigate from Profile → Tap "Loyalty Rewards" menu item
 - **Screenshot:** ![Screenshot](screenshots/50.jpg)
+- **Screenshot:** ![Screenshot](screenshots/100.jpg)
 
 ### 7.2 All Redemptions
 - **Route:** `/allRedeemedsScreen`
@@ -282,6 +309,8 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/checkout`
 - **How to Access:** Navigate from Cart Orders screen → Tap "Proceed to Checkout" button
 - **Screenshot:** ![Screenshot](screenshots/56.jpg)
+- **Screenshot:** ![Screenshot](screenshots/101.jpg)
+- **Screenshot:** ![Screenshot](screenshots/102.jpg)
 
 ### 8.2 Add New Payment Method
 - **Route:** `/addNewPaymentMethod`
@@ -301,6 +330,8 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 - **Route:** `/ordersHistory`
 - **How to Access:** Navigate from Profile → Orders History, or Market screen → Past Orders
 - **Screenshot:** ![Screenshot](screenshots/59.jpg)
+- **Screenshot:** ![Screenshot](screenshots/103.jpg)
+- **Screenshot:** ![Screenshot](screenshots/104.jpg)
 
 ---
 
@@ -388,7 +419,7 @@ This document contains a comprehensive sitemap of all screens in the Cook & Craf
 
 - **Location:** This sitemap and all screenshots are located in `documentation/sitemap/` folder
 - All screenshots should be placed in the `screenshots/` directory (relative to this file)
-- Screenshot naming convention: Sequential numbers starting from `01.jpg` through `73.jpg` (and variations like `14.1.jpg`, `15.1.jpg`, etc.)
+- Screenshot naming convention: Sequential numbers starting from `01.jpg` through `104.jpg` (and variations like `14.1.jpg`, `15.1.jpg`, etc.)
 - Guest users have limited access: they can browse Explore and Market tabs, view recipes and posts (read-only), but cannot access Schedule, Community, Profile tabs, or make purchases
 - Update this document as new screens are added to the app
 - Route paths can be found in `lib/config/route/route_manager.dart`
